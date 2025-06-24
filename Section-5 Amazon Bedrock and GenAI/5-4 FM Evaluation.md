@@ -10,6 +10,12 @@
 3) Model will provide generated answers
 4) There will be a Judge Model that will provide a Grading Score
 
+#### Task Types for Model Evaulations
+- Text Generation
+- Question and Answer
+- Text Summarisation
+- Text Classification
+
 #### Benchmark Datasets
 - Curated collections of data designed specifically at evaluating the performance of language models
 - Some benchmarks datasets allow you to very quickly any kind of bias and potential discrimination against a group of people. 
